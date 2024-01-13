@@ -35,8 +35,5 @@ To get started with the Q-Table Maze Solver project, follow these steps:
 ## Contributing
 Contributions are welcome! If you have ideas for improvements, open an issue or submit a pull request. 
 
-## License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for educational and non-commercial purposes.
-
 
 Happy coding! 🚀
